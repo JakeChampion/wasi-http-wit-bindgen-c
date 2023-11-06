@@ -1,0 +1,5 @@
+package test:wasi-http;
+
+world test-wasi-http {
+  include wasi:http/proxy@0.2.0-rc-2023-11-05;
+}
